@@ -278,4 +278,5 @@ PRODUCT_PACKAGES += \
     TimeService \
     shutdownlistener \
     qcnvitems \
-    qcrilhook
+    qcrilhook \
+    libaudioalsa
