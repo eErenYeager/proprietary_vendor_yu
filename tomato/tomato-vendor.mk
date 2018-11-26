@@ -18,10 +18,10 @@
 PRODUCT_COPY_FILES += \
     vendor/yu/tomato/proprietary/vendor/bin/adsprpcd:system/vendor/bin/adsprpcd \
     vendor/yu/tomato/proprietary/vendor/bin/hci_qcomm_init:system/vendor/bin/hci_qcomm_init \
-    vendor/yu/tomato/proprietary/bin/imscmservice:system/bin/imscmservice \
-    vendor/yu/tomato/proprietary/bin/imsdatadaemon:system/bin/imsdatadaemon \
-    vendor/yu/tomato/proprietary/bin/imsqmidaemon:system/bin/imsqmidaemon \
-    vendor/yu/tomato/proprietary/bin/ims_rtp_daemon:system/bin/ims_rtp_daemon \
+    vendor/yu/tomato/proprietary/bin/imscmservice:system/vendor/bin/imscmservice \
+    vendor/yu/tomato/proprietary/bin/imsdatadaemon:system/vendor/bin/imsdatadaemon \
+    vendor/yu/tomato/proprietary/bin/imsqmidaemon:system/vendor/bin/imsqmidaemon \
+    vendor/yu/tomato/proprietary/bin/ims_rtp_daemon:system/vendor/bin/ims_rtp_daemon \
     vendor/yu/tomato/proprietary/vendor/bin/irsc_util:system/vendor/bin/irsc_util \
     vendor/yu/tomato/proprietary/vendor/bin/mm-pp-daemon:system/vendor/bin/mm-pp-daemon \
     vendor/yu/tomato/proprietary/vendor/bin/mm-qcamera-daemon:system/vendor/bin/mm-qcamera-daemon \
