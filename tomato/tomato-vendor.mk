@@ -42,7 +42,7 @@ PRODUCT_COPY_FILES += \
     vendor/yu/tomato/proprietary/vendor/firmware/venus.mbn:system/vendor/firmware/venus.mbn \
     vendor/yu/tomato/proprietary/vendor/firmware/venus.mdt:system/vendor/firmware/venus.mdt \
     vendor/yu/tomato/proprietary/vendor/etc/permissions/qcnvitems.xml:system/vendor/etc/permissions/qcnvitems.xml \
-    vendor/yu/tomato/proprietary/etc/permissions/com.qti.snapdragon.sdk.display.xml:system/vendor/etc/permissions/com.qti.snapdragon.sdk.display.xml \
+    vendor/yu/tomato/proprietary/vendor/etc/permissions/com.qti.snapdragon.sdk.display.xml:system/vendor/etc/permissions/com.qti.snapdragon.sdk.display.xml \
     vendor/yu/tomato/proprietary/vendor/framework/com.qti.snapdragon.sdk.display.jar:system/vendor/framework/com.qti.snapdragon.sdk.display.jar \
     vendor/yu/tomato/proprietary/vendor/etc/permissions/qcrilhook.xml:system/vendor/etc/permissions/qcrilhook.xml \
     vendor/yu/tomato/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
