@@ -45,8 +45,8 @@ PRODUCT_COPY_FILES += \
     vendor/yu/tomato/proprietary/vendor/firmware/venus.b04:system/vendor/firmware/venus.b04 \
     vendor/yu/tomato/proprietary/vendor/firmware/venus.mbn:system/vendor/firmware/venus.mbn \
     vendor/yu/tomato/proprietary/vendor/firmware/venus.mdt:system/vendor/firmware/venus.mdt \
-    vendor/yu/tomato/proprietary/etc/permissions/imscm.xml:system/etc/permissions/imscm.xml \
-    vendor/yu/tomato/proprietary/etc/permissions/qti_permissions.xml:system/etc/permissions/qti_permissions.xml \
+    vendor/yu/tomato/proprietary/etc/permissions/imscm.xml:system/vendor/etc/permissions/imscm.xml \
+    vendor/yu/tomato/proprietary/etc/permissions/qti_permissions.xml:system/vendor/etc/permissions/qti_permissions.xml \
     vendor/yu/tomato/proprietary/vendor/lib64/lib-dplmedia.so:system/vendor/lib64/lib-dplmedia.so \
     vendor/yu/tomato/proprietary/vendor/lib64/libimscamera_jni.so:system/vendor/lib64/libimscamera_jni.so \
     vendor/yu/tomato/proprietary/vendor/lib64/lib-imscamera.so:system/vendor/lib64/lib-imscamera.so \
