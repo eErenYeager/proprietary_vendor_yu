@@ -104,12 +104,6 @@ android_app_import {
 }
 
 dex_import {
-	name: "com.qti.snapdragon.sdk.display",
-	owner: "yu",
-	jars: ["proprietary/framework/com.qti.snapdragon.sdk.display.jar"],
-}
-
-dex_import {
 	name: "imscmlibrary",
 	owner: "yu",
 	jars: ["proprietary/vendor/framework/imscmlibrary.jar"],
