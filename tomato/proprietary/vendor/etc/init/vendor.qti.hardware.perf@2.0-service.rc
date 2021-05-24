@@ -1,9 +1,0 @@
-on boot
-    mkdir /data/vendor/perfd 0770 root system
-    chmod 2770 /data/vendor/perfd
-    rm /data/vendor/perfd/default_values
-
-service perf-hal-2-0 /vendor/bin/hw/vendor.qti.hardware.perf@2.0-service
-    class hal
-    user root
-    group root readproc oem_2950
